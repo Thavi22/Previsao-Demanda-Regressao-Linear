@@ -1,7 +1,7 @@
 
 #Previsão de Demanda com Regressão Linear
 
-Este projeto faz parte de um portfólio acadêmico com foco em Data Engineering e análise preditiva.
+Este projeto faz parte de um portfólio acadêmico com foco em Applied Math for Data Science e análise preditiva.
 
 ##Descrição
 
