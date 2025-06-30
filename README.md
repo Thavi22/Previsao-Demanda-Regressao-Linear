@@ -1,3 +1,4 @@
+![Banner do Projeto](./banner_previsao_demanda.png)
 
 #Previsão de Demanda com Regressão Linear
 
